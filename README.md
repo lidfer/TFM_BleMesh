@@ -1,2 +1,3 @@
 # TFM_BleMesh
-TFM del Máster en Internet de las Cosas (UCM)
+Trábajo Fin de Máster: "Bluetooth Mesh Networking. Aplicaciones y pruebas de concepto"
+Máster en Internet de las Cosas (UCM)
